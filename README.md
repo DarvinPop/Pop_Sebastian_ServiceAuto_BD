@@ -1,29 +1,22 @@
-# Proiect BD – Gestiunea unui service auto
+# Gestiunea unui service auto
 
-## Prezentarea proiectului
+Proiect la disciplina Proiectarea Bazelor de Date.
 
-Proiectul are ca temă proiectarea unei baze de date pentru evidența activităților dintr-un service auto. Aplicația propusă va organiza informațiile despre clienți, autovehicule, programări, reparații, angajați, piese și facturi.
+## Descriere
 
-## Scop
-
-Scopul este realizarea unei baze de date relaționale care să reducă evidențele separate și să permită urmărirea lucrărilor efectuate asupra fiecărui autovehicul.
+Proiectul urmărește realizarea unei baze de date pentru gestionarea activității unui service auto. Vor fi păstrate informații despre clienți, mașini, programări, reparații, mecanici, piese și facturi.
 
 ## Obiective
 
-- Înregistrarea clienților și a autovehiculelor deținute.
-- Gestionarea programărilor pentru verificări și reparații.
-- Evidența mecanicilor și a intervențiilor efectuate.
-- Urmărirea pieselor folosite și a costurilor lucrărilor.
-- Generarea și consultarea facturilor.
-- Realizarea de interogări SQL pentru rapoarte și statistici.
-- Dezvoltarea unei interfețe pentru operații de adăugare, vizualizare, modificare și ștergere.
+- Evidența clienților și a mașinilor acestora
+- Gestionarea programărilor și a reparațiilor
+- Evidența mecanicilor și a pieselor utilizate
+- Calcularea costurilor și gestionarea facturilor
+- Realizarea interogărilor SQL pentru obținerea rapoartelor
+- Dezvoltarea unei aplicații pentru gestionarea datelor
 
-## Tehnologii propuse
+## Tehnologii
 
-- **SQLite** – baza de date relațională.
-- **Python / Flask** – aplicația de gestiune.
-- **HTML și CSS** – interfața utilizatorului.
-
-## Etapa curentă
-
-**Săptămâna 1:** alegerea domeniului, descrierea problemei și stabilirea obiectivelor. Analiza detaliată și proiectarea modelului de date urmează în etapele viitoare.
+- SQLite
+- Python și Flask
+- HTML și CSS
